@@ -1,0 +1,20 @@
+﻿[
+  {
+    "Author": "IchigoDia",
+    "Name": "如影随形",
+    "InternalName": "Mirage",
+    "AssemblyVersion": "0.3.1.0",
+    "Description": "创建一个纯客户端 NPC，可选择任意 ENpc 外观，并用原生走路动画跟随玩家。不发送网络包、不修改服务器数据、其他玩家不可见。命令：/mira summon、/mira dismiss、/mira target、/mira id <npcId>。",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "Punchline": "生成一个只在本机可见、会走路跟随你的 NPC。",
+    "IconUrl": "__BASE_URL__/icon.png",
+    "DownloadLinkInstall": "__BASE_URL__/Mirage-0.3.1.0.zip",
+    "DownloadLinkUpdate": "__BASE_URL__/Mirage-0.3.1.0.zip",
+    "DownloadLinkTesting": "__BASE_URL__/Mirage-0.3.1.0.zip",
+    "TestingAssemblyVersion": null,
+    "IsTestingExclusive": false,
+    "Tags": ["npc", "follower", "animation", "clientside"],
+    "CategoryTags": ["Utility"]
+  }
+]
