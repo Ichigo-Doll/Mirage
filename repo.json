@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "Author": "IchigoDia",
     "Name": "如影随形",
@@ -8,10 +8,10 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "Punchline": "生成一个只在本机可见、会走路跟随你的 NPC。",
-    "IconUrl": "__BASE_URL__/icon.png",
-    "DownloadLinkInstall": "__BASE_URL__/Mirage-0.3.1.0.zip",
-    "DownloadLinkUpdate": "__BASE_URL__/Mirage-0.3.1.0.zip",
-    "DownloadLinkTesting": "__BASE_URL__/Mirage-0.3.1.0.zip",
+    "IconUrl": "https://raw.githubusercontent.com/Ichigo-Doll/Mirage/main/icon.png",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Ichigo-Doll/Mirage/main/Mirage-0.3.1.0.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Ichigo-Doll/Mirage/main/Mirage-0.3.1.0.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/Ichigo-Doll/Mirage/main/Mirage-0.3.1.0.zip",
     "TestingAssemblyVersion": null,
     "IsTestingExclusive": false,
     "Tags": ["npc", "follower", "animation", "clientside"],
