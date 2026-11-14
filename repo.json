@@ -5,7 +5,7 @@
     "InternalName": "Mirage",
     "AssemblyVersion": "0.0.17.7",
     "Description": "创建一个幻影，并带ta去任何你想去的地方。命令:/mira。",
-    "Changelog": "1.修正了登录后首次上下坐骑会错误召唤幻影的问题\n2.修正了幻影面部配饰显示错误的问题
+    "Changelog": "1.修正了登录后首次上下坐骑会错误召唤幻影的问题\n2.修正了幻影面部配饰显示错误的问题",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "Punchline": "生成一个只在本机可见、会走路跟随你的 NPC。",
